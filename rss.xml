@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[EdgeCrafter]]></title>
         <description><![CDATA[EdgeCrafter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edgecrafter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 19:45:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 19:58:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edgecrafter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Outage Post Mortem learning points]]></title>
+            <description><![CDATA[<p>I like reading the outage Post Mortem some companies post, like Stack Overflow explaining how a simple Regex check caused an outage http://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016As a tester the Post Mortem gives a good opportunity to learn what kind of operational issues which might be candidates for test scenarios.In general good practice about monitoring enough to be able to do efficient troubleshooting, infrastructure robustness, roll out procedures with built in verification steps, automated checkpoint for fallback and good SOP (standard operating procedures) are the major learning points.In one word, design for operational robustness is essential, an area I especially evaluate for systems with many components interacting.This Google post mortem a good example https://googleblog.blogspot.dk/2014/01/todays-outage-for-several-google.html</p>]]></description>
+            <link>https://thegrid.ai/edgecrafter/outage-post-mortem-learning-points/index.html</link>
+            <guid isPermaLink="false">eb66ffdc-cdd6-4a74-9e0b-23f3c7780230</guid>
+            <pubDate>Thu, 18 Aug 2016 19:58:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Outage Post Mortem learning points]]></title>
             <description><![CDATA[<p> I like reading the outage Post Mortem some companies post, like Stack Overflow explaining how a simple Regex check caused an outage http://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016</p>]]></description>
-            <link>undefinedoutage-post-mortem-learning-points/index.html</link>
+            <link>https://thegrid.ai/edgecrafter/outage-post-mortem-learning-points/index.html</link>
             <guid isPermaLink="false">b1c87bcb-3fbe-47d2-bd6c-985a8b22fcb6</guid>
             <pubDate>Thu, 18 Aug 2016 19:45:44 GMT</pubDate>
         </item>
