@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EdgeCrafter]]></title>
+        <description><![CDATA[EdgeCrafter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 19:45:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Outage Post Mortem learning points]]></title>
+            <description><![CDATA[<p> I like reading the outage Post Mortem some companies post, like Stack Overflow explaining how a simple Regex check caused an outage http://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016</p>]]></description>
+            <link>undefinedoutage-post-mortem-learning-points/index.html</link>
+            <guid isPermaLink="false">b1c87bcb-3fbe-47d2-bd6c-985a8b22fcb6</guid>
+            <pubDate>Thu, 18 Aug 2016 19:45:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
